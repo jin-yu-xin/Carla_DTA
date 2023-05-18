@@ -1,2 +1,4 @@
 # Carla_DTA
-在carla中采集数据集训练 搭建DTA论文中的DTN网络并训练
+（1）在carla中采集数据集
+（2）复现论文DTA: Physical Camouflage Attacks using Differentiable Transformation Network中的DTN(Differentiable Transformation Network)网络搭建。
+（3）模型训练和测试
